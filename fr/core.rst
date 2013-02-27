@@ -7,6 +7,7 @@ Blah Blah
 .. toctree::
    :maxdepth: 2
    
+   core/concepts
    core/hello-world
 
 .. meta::
