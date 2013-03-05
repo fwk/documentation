@@ -14,12 +14,11 @@ Bienvenue sur la documentation officielle du projet Fwk !
    intro
    core
    db
-   xml
    forms
    cache
+   xml
    events
    recipes
-   tutorials
    contributing
 
 .. meta::
